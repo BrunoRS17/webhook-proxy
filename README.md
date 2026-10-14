@@ -1,6 +1,6 @@
 # Webhook Proxy
 
-**Uma jornada de engenharia backend: de uma API simples a um serviço de entrega de eventos confiável.**
+**Uma jornada de engenharia backend, de uma API simples a um serviço de entrega de eventos confiável.**
 
 ![Status: em construção](https://img.shields.io/badge/status-em_construção-yellow)
 ![Python](https://img.shields.io/badge/stack-Python-3776AB?logo=python&logoColor=white)
